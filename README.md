@@ -1,6 +1,6 @@
 # FJSP-DRL
 
-This repository is the official implementation of the paper “Flexible Job Shop Scheduling via Dual Attention Network Based Reinforcement Learning”
+This repository is the official implementation of the paper “[Flexible Job Shop Scheduling via Dual Attention Network Based Reinforcement Learning](https://arxiv.org/abs/2305.05119)”
 
 ## Quick Start
 
