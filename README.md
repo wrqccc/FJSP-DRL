@@ -1,6 +1,6 @@
 # FJSP-DRL
 
-This repository is the official implementation of the paper “[Flexible Job Shop Scheduling via Dual Attention Network Based Reinforcement Learning](https://arxiv.org/abs/2305.05119)”
+This repository is the official implementation of the paper “[Flexible Job Shop Scheduling via Dual Attention Network Based Reinforcement Learning](https://doi.org/10.1109/TNNLS.2023.3306421)”. *IEEE Transactions on Neural Networks and Learning Systems*, 2023.
 
 ## Quick Start
 
@@ -66,11 +66,15 @@ python test_trained_model.py 	--data_source SD2	# source of testing instances
 ## Cite the paper
 
 ```
-@article{wang2023flexible,
-  title={Flexible Job Shop Scheduling via Dual Attention Network Based Reinforcement Learning},
+@ARTICLE{10246328,
   author={Wang, Runqing and Wang, Gang and Sun, Jian and Deng, Fang and Chen, Jie},
-  journal={arXiv preprint arXiv:2305.05119},
-  year={2023}
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Flexible Job Shop Scheduling via Dual Attention Network-Based Reinforcement Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TNNLS.2023.3306421}
 }
 ```
 
